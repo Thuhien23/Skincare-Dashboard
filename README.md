@@ -57,5 +57,8 @@ Enhance Customer Engagement: Target inactive high-value customers and review pri
 **Currency assumed in USD ($).**
 
 
+![Hien Tran_Skincare_Dashboard_FP20-images-1](https://github.com/user-attachments/assets/a69e7095-6862-4067-bfe5-de0c9e5b0d63)
+![Hien Tran_Skincare_Dashboard_FP20-images-2](https://github.com/user-attachments/assets/edf29a40-aaf9-4d07-94ee-1bdd3cb2b63a)
+![Hien Tran_Skincare_Dashboard_FP20-images-3](https://github.com/user-attachments/assets/33a31c03-f20f-4e37-aa7a-1452ad2d8891)
 
 
