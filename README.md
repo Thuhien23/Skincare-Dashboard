@@ -56,6 +56,8 @@ Enhance Customer Engagement: Target inactive high-value customers and review pri
 
 **Currency assumed in USD ($).**
 
+🔗 Explore the Power BI app: https://app.powerbi.com/view?r=eyJrIjoiN2ZhNGFiZjctZWVjNS00MGM0LWI1NTAtYzAzYWE4OGNmOWUwIiwidCI6ImNiNDg0NDZlLTkwZTYtNGJmMS04MjViLTQwZTQ4ZmNjOWZmNiJ9
+
 
 ![Hien Tran_Skincare_Dashboard_FP20-images-1](https://github.com/user-attachments/assets/a69e7095-6862-4067-bfe5-de0c9e5b0d63)
 ![Hien Tran_Skincare_Dashboard_FP20-images-2](https://github.com/user-attachments/assets/edf29a40-aaf9-4d07-94ee-1bdd3cb2b63a)
